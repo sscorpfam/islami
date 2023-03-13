@@ -1,0 +1,126 @@
+{
+	"nama_indo": "Sholat Sunnah",
+	"nama_eng": "Sunnah Prayer",
+	"sunnah": [
+		{
+			"number": 1,
+			"indo": "Sholat sunnah rawatib",
+			"eng": "Rawatib sunnah Prayer"
+		},
+		{
+			"number": 2,
+			"name": "Sholat sunnah wudhu",
+			"eng": "Sunnah ablution prayer"
+		},
+		{
+			"number": 3,
+			"name": "Sholat sunnah tahiyyatul masjid",
+			"eng": "Sunnah tahiyyatul prayer at the mosque"
+		},
+		{
+			"number": 4,
+			"name": "Sholat sunnah tahajjud",
+			"eng": "Tahajjud sunnah prayers"
+		},
+		{
+			"number": 5,
+			"name": "Sholat sunnah tarawih",
+			"eng": "Taraweeh  sunnah prayer"
+		},
+		{
+			"number": 6,
+			"name": "Sholat sunnah witir",
+			"eng": "Witir sunnah prayer"
+		},
+		{
+			"number": 7,
+			"name": "Sholat sunnah dhuha",
+			"eng": "Dhuha sunnah prayer"
+		},
+		{
+			"number": 8,
+			"name": "Sholat sunnah isyroq",
+			"eng": "Isyroq sunnah prayer"
+		},
+		{
+			"number": 9,
+			"name": "Sholat sunnah awwabin",
+			"eng": "Awwabin sunnah prayer"
+		},
+		{
+			"number": 10,
+			"name": "Sholat sunnah tasbih",
+			"eng": "Tasbih sunnah prayer"
+		},
+		{
+			"number": 11,
+			"name": "Sholat sunnah hajat",
+			"eng": "Hajat sunnah prayer"
+		},
+		{
+			"number": 12,
+			"name": "Sholat sunnah taubat",
+			"eng": "Prayer sunnah repentance"
+		},
+		{
+			"number": 13,
+			"name": "Sholat sunnah istikharah",
+			"eng": "Istikharah sunnah prayer"
+		},
+		{
+			"number": 14,
+			"name": "Sholat sunnah ied",
+			"eng": "Eid sunnah prayer"
+		},
+		{
+			"number": 15,
+			"name": "Sholat sunnah istisqa'",
+			"eng": "Istisqa' sunnah prayer"
+		},
+		{
+			"number": 16,
+			"name": "Sholat sunnah gerhana",
+			"eng": "Eclipse sunnah prayer"
+		},
+		{
+			"number": 17,
+			"name": "Sholat sunnah mutlaq",
+			"eng": "Mutlaq sunnah prayer"
+		},
+		{
+			"number": 18,
+			"name": "Sholat sunnah raghaib",
+			"eng": "Raghaib sunnah Prayer"
+		},
+		{
+			"number": 19,
+			"name": "Sholat sunnah nisfu sya'ban",
+			"eng": "Sunnah prayer nisfu sya'ban"
+		},
+		{
+			"number": 20,
+			"name": "Sholat sunnah sebelum akad nikah",
+			"eng": "Sunnah prayers before the marriage"
+		},
+		{
+			"number": 21,
+			"name": "Sholat sunnah zafaat",
+			"eng": "Zafaat  sunnah Prayer"
+		},
+		{
+			"number": 22,
+			"name": "Sholat sunnah safar",
+			"eng": "Safar sunnah Prayer"
+		},
+		{
+			"number": 23,
+			"name": "Sholat sunnah ihram",
+			"eng": "Ihram sunnah Prayer"
+		},
+		{
+			"number": 24,
+			"name": "Sholat sunnah thawaf",
+			"eng": "Thawaf sunnah Prayer"
+		}
+	]
+}
