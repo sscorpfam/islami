@@ -1,0 +1,156 @@
+{
+	"nabi": [
+		{
+			"no": 1,
+			"name_id": "Nabi Adam AS",
+			"name_eng": "Prophet Adam AS",
+			"arab": "آدم الاسلام"
+		},
+		{
+			"no": 2,
+			"name_id": "Nabi Idris AS",
+			"name_eng": "Prophet Idris AS",
+			"arab": "ادريس الاسلام"
+		},
+		{
+			"no": 3,
+			"name_id": "Nabi Nuh AS",
+			"name_eng": "Prophet Noah  AS",
+			"arab": "نوح عليه السلام"
+		},
+		{
+			"no": 4,
+			"name_id": "Nabi Hud AS",
+			"name_eng": "Prophet Hud  AS",
+			"arab": "هد الاسلام"
+		},
+		{
+			"no": 5,
+			"name_id": "Nabi Sholeh AS",
+			"name_eng": "Prophet Sholeh AS",
+			"arab": "شوله الاسلام"
+		},
+		{
+			"no": 6,
+			"name_id": "Nabi Ibrahim AS",
+			"name_eng": "Prophet Abraham AS",
+			"arab": "ابراهيم الاسلام"
+		},
+		{
+			"no": 7,
+			"name_id": "Nabi Ismail AS",
+			"name_eng": "Prophet Ishmael AS",
+			"arab": "اسماعيل الاسلام"
+		},
+		{
+			"no": 8,
+			"name_id": "Nabi Luth AS",
+			"name_eng": "Prophet Lut AS",
+			"arab": "لوط الاسلام"
+		},
+		{
+			"no": 9,
+			"name_id": "Nabi Ishaq AS",
+			"name_eng": "Prophet Isaac AS",
+			"arab": "اسحق الاسلام"
+		},
+		{
+			"no": 10,
+			"name_id": "Nabi Yaqub AS",
+			"name_eng": "Prophet Jacob AS",
+			"arab": "يعقوب الاسلام"
+		},
+		{
+			"no": 11,
+			"name_id": "Nabi Yusuf AS",
+			"name_eng": "Prophet Joseph AS",
+			"arab": "يوسف عليه السلام"
+		},
+		{
+			"no": 12,
+			"name_id": "Nabi Syu'aib AS",
+			"name_eng": "Prophet Syu'aib AS",
+			"arab": "صعيب الاسلام"
+		},
+		{
+			"no": 13,
+			"name_id": "Nabi Ayyub AS",
+			"name_eng": "Prophet Ayyub AS",
+			"arab": "أيوب عليه السلام"
+		},
+		{
+			"no": 14,
+			"name_id": "Nabi Dzulkifli AS",
+			"name_eng": "Prophet Dzulkifli AS",
+			"arab": "ذول الكفل الاسلام"
+		},
+		{
+			"no": 15,
+			"name_id": "Nabi Musa AS",
+			"name_eng": "Prophet Moses AS",
+			"arab": "موسى عليه السلام"
+		},
+		{
+			"no": 16,
+			"name_id": "Nabi Harun AS",
+			"name_eng": "Prophet Aaron AS",
+			"arab": "هارون الاسلام"
+		},
+		{
+			"no": 17,
+			"name_id": "Nabi Daud AS",
+			"name_eng": "Prophet David AS",
+			"arab": "داود الاسلام"
+		},
+		{
+			"no": 18,
+			"name_id": "Nabi Sulaiman AS",
+			"name_eng": "Prophet Solomon AS",
+			"arab": "سليمان عليه السلام"
+		},
+		{
+			"no": 19,
+			"name_id": "Nabi Ilyas AS",
+			"name_eng": "Prophet Elias AS",
+			"arab": "الياس الاسلام"
+		},
+		{
+			"no": 20,
+			"name_id": "Nabi Ilyasa' AS",
+			"name_eng": "Prophet Elisha AS",
+			"arab": "إليسا عليه السلام"
+		},
+		{
+			"no": 21,
+			"name_id": "Nabi Yunus AS",
+			"name_eng": "Prophet Jonah AS",
+			"arab": "يونس عليه السلام"
+		},
+		{
+			"no": 22,
+			"name_id": "Nabi Zakariya AS",
+			"name_eng": "Prophet Zachariah AS",
+			"arab": "زكريا الاسلام"
+		},
+		{
+			"no": 23,
+			"name_id": "Nabi Yahya AS",
+			"name_eng": "Prophet Yahya AS",
+			"arab": "يحيى الاسلام"
+		},
+		{
+			"no": 24,
+			"name_id": "Nabi Isa AS",
+			"name_eng": "Prophet Isa(Jesus) AS",
+			"arab": "عيسى عليه السلام"
+		},
+		{
+			"no": 25,
+			"name_id": "Nabi Muhammad AS",
+			"name_eng": "Prophet Muhammad AS",
+			"arab": "محمد الاسلام"
+		},
+		
+		
+	]
+}
