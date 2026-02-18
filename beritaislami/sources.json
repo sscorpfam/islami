@@ -1,14 +1,8 @@
 {
- "sources":[
-  {
-   "name":"Muslim",
-   "rss":"https://muslim.or.id/feed",
-   "active":true
-  },
-  {
-   "name":"NU",
-   "rss":"https://www.nu.or.id/rss",
-   "active":true
-  }
- ]
+  "sources":[
+    "https://muslim.or.id/feed",
+    "https://rumaysho.com/feed",
+    "https://islamqa.info/id/rss"
+  ]
 }
+
